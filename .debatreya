@@ -1,0 +1,14 @@
+{
+  "id": "Pen-nd-Pixel",
+  "name": "Pen & Pixel",
+  "tagline": "AI-powered blogging and note-taking and note sharing platform",
+  "description": "Pen & Pixel is an AI-powered blogging and note-taking platform that provides a versatile and collaborative environment for organizing, sharing, and creating notes and blog posts. It leverages AI technologies to support advanced features such as content summarization and collaborative editing.",
+  "techStack": ["MongoDB", "React" ,"ExpressJS", "NodeJS", "TailwindCSS"],
+  "links": {
+    "github": "https://github.com/Debatreya/Pen-nd-Pixel",
+    "demo": ""
+  },
+  "featured": true,
+  "priority": 10,
+  "hasDeepDive": false
+}
