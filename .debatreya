@@ -6,7 +6,7 @@
   "techStack": ["MongoDB", "React" ,"ExpressJS", "NodeJS", "TailwindCSS"],
   "links": {
     "github": "https://github.com/Debatreya/Pen-nd-Pixel",
-    "demo": ""
+    "demo": "https://pen-nd-pixel.onrender.com/"
   },
   "featured": true,
   "priority": 10,
